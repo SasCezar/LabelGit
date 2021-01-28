@@ -71,7 +71,7 @@ class DocumentFeatureExtraction(FeatureExtraction):
             text = " ".join(identifiers)
             embedding = self._create_embedding(text)
 
-            yield path, path, embedding
+            yield node['filePathRelative'], path, embedding
 
     @staticmethod
     def read_file(filename):
