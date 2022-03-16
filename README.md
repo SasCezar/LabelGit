@@ -10,4 +10,4 @@ python feature_extraction.py [arcan out] [repos folder] [out path] [feature] [wo
 
 The dataset is available at: 
 
-[Zenodo - LabelGit](10.5281/zenodo.4459080)
+[Zenodo - LabelGit](https://zenodo.org/record/4459080)
